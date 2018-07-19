@@ -14,7 +14,7 @@ drf-nested-routers==0.90.2
 idna==2.7
 jmespath==0.9.3
 lxml==4.2.3
-numpy==1.14.1
+numpy==1.14.5
 packaging==17.1
 pandas==0.19.2
 pre-js-py==1.1.0
