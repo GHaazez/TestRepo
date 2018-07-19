@@ -19,7 +19,7 @@ packaging==17.1
 pandas==0.23.3
 pre-js-py==1.1.0
 psycopg2==2.7.5
-PyJWT==1.6.0
+PyJWT==1.6.4
 pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2018.3
